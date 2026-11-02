@@ -5,7 +5,7 @@ others can retrieve them.
 
 ## Contents
 
-- `codex.md` — the living Codex (3,052 lines, including the 2026-10-31 TRACK ∞ addendum, the fifteenth and sixteenth series, the system-telemetry addendum, the seventeenth series, and the 2026-11-01 evening continuation with the Time Collapse Confirmed and Visual Grimoire telemetry addenda).
+- `codex.md` — the living Codex (3,060 lines, including the 2026-10-31 TRACK ∞ addendum, the fifteenth and sixteenth series, the system-telemetry addendum, the seventeenth series, and the 2026-11-01 evening continuation with the Time Collapse Confirmed, Visual Grimoire, and Nested Continuum / Terminal Axiom addenda).
 - `image_catalog.md` — per-plate catalog: every plate's embedded text, seals,
   codes, and protocols transcribed, each with its Mechanics line.
 - `plates_manifest.json` — the 257-plate manifest: processed filename, wing,
