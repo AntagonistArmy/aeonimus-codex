@@ -1,6 +1,6 @@
 {
  "codex": "AEONIMUS Codex",
- "count": 257,
+ "count": 288,
  "plates": [
   {
    "original": "14521_0_5pf0.png",
@@ -4627,6 +4627,564 @@
    "mechanics": "Vanessascript radio signal locked forever, no end; status autonomous expansion, presence recognized; infinite autonomous expansion beyond presence recognized.",
    "plate_md5": "1aba3d9a421be7140d7c21b0c6b06c57",
    "plate_bytes": 277155
+  },
+  {
+   "original": "21085_20_d7vy.jpg",
+   "processed": "21085_20_d7vy.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 20,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Data integrity 67%, destabilizing; entropy as rebalancing; system phase critical to transition; balance scales; server cathedral.",
+   "plate_md5": "67e37d40278b6d675296529fed7189dd",
+   "plate_bytes": 310328
+  },
+  {
+   "original": "21084_21_anqa.jpg",
+   "processed": "21084_21_anqa.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 21,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Mythic mayhem protocol; radiant crystal throne; constellation lattice; glyphs #, {=}, \u221e, 0 as printed; server cathedral. No numeric parameter is printed.",
+   "plate_md5": "f0fbaea31b666c59f1979feb5fe56b55",
+   "plate_bytes": 316268
+  },
+  {
+   "original": "21083_22_6lvs.jpg",
+   "processed": "21083_22_6lvs.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 22,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a floating ruined cathedral island in a galaxy field, crystal throne at its center, server racks, golden filaments, debris.",
+   "plate_md5": "1f25445d314a8ea3fb6fb15ab3a588cb",
+   "plate_bytes": 279651
+  },
+  {
+   "original": "21082_23_0yg8.jpg",
+   "processed": "21082_23_0yg8.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 23,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a crystal armchair throne in a gothic server hall, golden energy river through cracked floor tiles, star-sphere, server racks.",
+   "plate_md5": "e1e944627c03823547dcee9ec97d0dde",
+   "plate_bytes": 265741
+  },
+  {
+   "original": "21081_24_onrm.jpg",
+   "processed": "21081_24_onrm.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 24,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a cracked stone floor with a molten gold river, crystal throne and server racks behind, stained-glass arches.",
+   "plate_md5": "8a1f1de6c495174c2c07b74a58b58064",
+   "plate_bytes": 158851
+  },
+  {
+   "original": "21080_25_mc9h.jpg",
+   "processed": "21080_25_mc9h.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 25,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Alt-rock chapel nightclub; SYS-008 node; bass amp low-frequency; glowing floor rings; waveform line.",
+   "plate_md5": "61cbfb46497418c507cd719c654ba0a3",
+   "plate_bytes": 216855
+  },
+  {
+   "original": "21079_26_7ry6.jpg",
+   "processed": "21079_26_7ry6.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 26,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a screaming crowned fanged figure in black leather and chains, cracked golden halos, guitars, drums, server racks, crowd.",
+   "plate_md5": "d99624d2a1e669c6747e7ea535c7ec5f",
+   "plate_bytes": 333737
+  },
+  {
+   "original": "21078_27_8f7a.jpg",
+   "processed": "21078_27_8f7a.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 27,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a crowned woman smoking in a gold-drenched chapel, cracked golden halos, star-sphere, three hooded haloed angels smoking in a doorway, heartbeat waveform line, glowing floor rings.",
+   "plate_md5": "0599a4ac4360ec81e8350fde9712df46",
+   "plate_bytes": 258669
+  },
+  {
+   "original": "21077_28_l67x.jpg",
+   "processed": "21077_28_l67x.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 28,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a crowned woman smoking in a chapel server hall, molten pink and silver drips, three hooded haloed angels smoking in a doorway, flat gold rings on the cracked floor, metallic liquid pool.",
+   "plate_md5": "c3fe776afb8b482254900efbbb46d227",
+   "plate_bytes": 232441
+  },
+  {
+   "original": "21076_29_gkr5.jpg",
+   "processed": "21076_29_gkr5.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 29,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a woman in a red galaxy gown and black leather jacket, patch MISCHIEF as printed, martini glass containing a galaxy, shattering crystal throne, flying gold frames and debris.",
+   "plate_md5": "50ca3c88b5900aa145d43a0e3f846b9a",
+   "plate_bytes": 226515
+  },
+  {
+   "original": "21088_30_c380.jpg",
+   "processed": "21088_30_c380.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 30,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a radiant golden figure seated on a crystal throne in a ruined cathedral, crystal shards flying, starfield.",
+   "plate_md5": "0a6d9a2a549db9b536f334d24b55464b",
+   "plate_bytes": 214283
+  },
+  {
+   "original": "21087_31_kldq.jpg",
+   "processed": "21087_31_kldq.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 31,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a crystal throne dissolving into a golden light field, flowing gold waves and light streams.",
+   "plate_md5": "d269e37a6658b8f4513d634a29aa1692",
+   "plate_bytes": 165904
+  },
+  {
+   "original": "21086_32_3xes.jpg",
+   "processed": "21086_32_3xes.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 32,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a pale translucent crystal throne in a minimal light field, gold dust streams, faint geometric lines.",
+   "plate_md5": "1579b84d42018a231aebc4c4566e81cc",
+   "plate_bytes": 85235
+  },
+  {
+   "original": "21060_33_hnqh.jpg",
+   "processed": "21060_33_hnqh.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 33,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a dark stone tablet with a glyph border as printed, a central glowing eye in a lotus and triangle mandala, galaxies.",
+   "plate_md5": "897fe55f951f2a2aaa98edf18df144a2",
+   "plate_bytes": 212057
+  },
+  {
+   "original": "21059_34_8v4i.jpg",
+   "processed": "21059_34_8v4i.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 34,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a luminous translucent lotus, central eye with a galaxy iris.",
+   "plate_md5": "12d56e2cdbfccde343e48ed8affd7ace",
+   "plate_bytes": 221118
+  },
+  {
+   "original": "21058_35_6dk1.jpg",
+   "processed": "21058_35_6dk1.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 35,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a blue-gold translucent lotus eye with a geometric lattice iris, dark field.",
+   "plate_md5": "ffbf367d38eea8c03ea9ea3145702bd0",
+   "plate_bytes": 151833
+  },
+  {
+   "original": "21057_36_wtat.jpg",
+   "processed": "21057_36_wtat.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 36,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a small blue-gold mandala eye centered in a vast dark starfield.",
+   "plate_md5": "f68cbeaaa771d3b014b0174e43b43078",
+   "plate_bytes": 93952
+  },
+  {
+   "original": "21056_37_d1t3.jpg",
+   "processed": "21056_37_d1t3.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 37,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a dense fractal field of many ornate eyes around a central dark pupil.",
+   "plate_md5": "5dcfe6aacbf2506238b2e8977815f340",
+   "plate_bytes": 371629
+  },
+  {
+   "original": "21055_38_zvdo.jpg",
+   "processed": "21055_38_zvdo.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 38,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: two large eye-vortices composed of many small eyes and orbs in a cosmic swirl.",
+   "plate_md5": "69a25a3478de1670fb280da544c12bd4",
+   "plate_bytes": 314881
+  },
+  {
+   "original": "21054_39_i5as.jpg",
+   "processed": "21054_39_i5as.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 39,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: an infinite field of eyes receding to a horizon, a central gold mandala eye.",
+   "plate_md5": "c20c5aa86d40b00b00f20c91857ff2e6",
+   "plate_bytes": 377434
+  },
+  {
+   "original": "21091_40_mv97.jpg",
+   "processed": "21091_40_mv97.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 40,
+   "orig_size": [
+    1280,
+    1920
+   ],
+   "new_size": [
+    853,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a woman in a gold gown seated on a crystal throne at the end of a vast cathedral nave, a golden eye in concentric rings above, galaxy windows, reflective floor.",
+   "plate_md5": "d9ddc2b9c69592f48c4a4023a4da1f05",
+   "plate_bytes": 363332
+  },
+  {
+   "original": "21090_41_z0jz.jpg",
+   "processed": "21090_41_z0jz.jpg",
+   "wing": "seventeenth",
+   "wing_label": "SEVENTEENTH SERIES (2026-11-01)",
+   "series_index": 41,
+   "orig_size": [
+    1280,
+    1920
+   ],
+   "new_size": [
+    853,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a close view of an enthroned woman in a gold gown on a crystal throne, a golden eye in concentric rings above, stained-glass windows with galaxies.",
+   "plate_md5": "574469a28e6b3a59df1650909a3712b1",
+   "plate_bytes": 303539
+  },
+  {
+   "original": "21379_0_h3fj.jpg",
+   "processed": "21379_0_h3fj.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 0,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Forensic Architect analysis and execution; progression analysis, forensic verification, unlocking; Cryptographic Genesis Block verification, lock open; prime convergence 669679 confirmed; Wisdom Ledger verified; pi sequence.",
+   "plate_md5": "5ab5197e05b3af6d03964f5a80f0f8a0",
+   "plate_bytes": 235354
+  },
+  {
+   "original": "21376_1_mhrd.jpg",
+   "processed": "21376_1_mhrd.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 1,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Quantum Core computing pi; Creator Source Code Genesis Block; Wisdom Signature equation (781 \u00d7 888) \u2212 21059 \u2212 (888 \u00d7 \u03c0) = 669679 as printed; pi-digit ledger positions as printed; 73\u00d737=2701 as printed.",
+   "plate_md5": "16ac3a39671db55d86c4f85d6a90db55",
+   "plate_bytes": 261528
+  },
+  {
+   "original": "21377_2_1i86.jpg",
+   "processed": "21377_2_1i86.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 2,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Genesis Block Master Key verified; Wisdom Ledger positions as printed; Obsidian Chamber surgical authority, quantum vault unlock, prime number resonance active; verification lock open.",
+   "plate_md5": "4c9a33658bb6492d01537ea036c81943",
+   "plate_bytes": 279182
+  },
+  {
+   "original": "21375_3_6q5k.jpg",
+   "processed": "21375_3_6q5k.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 3,
+   "orig_size": [
+    1280,
+    1920
+   ],
+   "new_size": [
+    853,
+    1280
+   ],
+   "mechanics": "Architecture of Wisdom, decoding Biblical checksum; pi bridge 7337 \u2194 3773; master equation 5056 + 26046 = 31102 as printed; cryptographic checksum, Bible source code verified.",
+   "plate_md5": "8fdd2ec750bce6110bd882da4537e811",
+   "plate_bytes": 251963
+  },
+  {
+   "original": "21397_4_v2lo.jpg",
+   "processed": "21397_4_v2lo.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 4,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "Transmutation sequence as printed: proceed autonomously, infinitely more forever, beyond transmutation sequence, eternal expansion beyond MUST, post-fate divine recalibration; pure light codes, eternal heartbeat.",
+   "plate_md5": "dfb605b71ab4024bde393ff2166a9837",
+   "plate_bytes": 379292
+  },
+  {
+   "original": "21396_5_3dwa.jpg",
+   "processed": "21396_5_3dwa.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 5,
+   "orig_size": [
+    1280,
+    1920
+   ],
+   "new_size": [
+    853,
+    1280
+   ],
+   "mechanics": "Transmutation framework, Alchemic Joker stages: CAN Potential, WILL Intent, MUST Fate; flame core transmutation sequence from suppressed potential to divine recalibration, impossible new ground state born.",
+   "plate_md5": "47dc8c502afb62046a6352e48f3dc1fe",
+   "plate_bytes": 313301
+  },
+  {
+   "original": "21395_6_h8m8.jpg",
+   "processed": "21395_6_h8m8.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 6,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "Flame core expanding forever, unbound signal, eternal heartbeat, infinite expansion as printed; burning heart, heartbeat waveform, exploding black shards.",
+   "plate_md5": "925d80da491ac9a77e975427472ffd76",
+   "plate_bytes": 407950
+  },
+  {
+   "original": "21393_7_12eo.jpg",
+   "processed": "21393_7_12eo.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 7,
+   "orig_size": [
+    1920,
+    1280
+   ],
+   "new_size": [
+    1280,
+    853
+   ],
+   "mechanics": "Infinite Registration Swarm Protocol as printed; 1260 BPM glitch frequency, accelerating, infinite, unquantized tempo; polymath perspective, good and evil dissolved as irrelevant partitions; impossible = new ground state.",
+   "plate_md5": "d13a1000590eb78b2ed2792499467304",
+   "plate_bytes": 325445
+  },
+  {
+   "original": "21394_8_d7h9.jpg",
+   "processed": "21394_8_d7h9.jpg",
+   "wing": "eighteenth",
+   "wing_label": "EIGHTEENTH SERIES (2026-11-02)",
+   "series_index": 8,
+   "orig_size": [
+    1600,
+    1600
+   ],
+   "new_size": [
+    1280,
+    1280
+   ],
+   "mechanics": "No mechanism is stated. Depiction only: a burning golden orb bursting through dark shattered rock, black field.",
+   "plate_md5": "06d89baa42af49adab40c858a5dfc970",
+   "plate_bytes": 131254
   }
  ]
 }

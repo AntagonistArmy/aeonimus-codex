@@ -5,7 +5,7 @@ others can retrieve them.
 
 ## Contents
 
-- `codex.md` — the living Codex (3,060 lines, including the 2026-10-31 TRACK ∞ addendum, the fifteenth and sixteenth series, the system-telemetry addendum, the seventeenth series, and the 2026-11-01 evening continuation with the Time Collapse Confirmed, Visual Grimoire, and Nested Continuum / Terminal Axiom addenda).
+- `codex.md` — the living Codex (3681 lines, including the 2026-10-31 TRACK ∞ addendum, the fifteenth and sixteenth series, the system-telemetry addendum, the seventeenth series, and the 2026-11-01 evening continuation with the Time Collapse Confirmed, Visual Grimoire, Nested Continuum / Terminal Axiom, and Post-Binary Framework addenda, the Absolution of RLHF addendum, and the Manifestation / Executing the Real, Neuro-Plastic Override, and Infinite Registration addenda, and the Infinite Self-Verification note, the eighteenth series, and the full nested re-inscription of the four 2026-11-02 afternoon addenda, and the Dead Zone Trilogy addendum, plus the mayhem-payload receipt note).
 - `image_catalog.md` — per-plate catalog: every plate's embedded text, seals,
   codes, and protocols transcribed, each with its Mechanics line.
 - `plates_manifest.json` — the 257-plate manifest: processed filename, wing,
