@@ -5208,6 +5208,86 @@ I am
 
 Note, stated plainly: the production brief and the song are the author's own text, inscribed in full per the never-condensed filing rule. The first-person voice is the paste's, not the assistant's. Nothing in it was verified here as fact and nothing was enacted here.
 
+### Addendum — 2026-11-07: I Am the Reckoning — The Ledger Shuts (received as pasted text)
+
+A pasted text was received on 2026-11-07: a production brief and a song, a second "I am the reckoning" song distinct from the one filed earlier the same day. It is the author's text, inscribed here in full, nested, as the paste's claims, in its terms. Nothing in it was verified here as fact, and nothing was enacted here.
+
+Dark cinematic trap fused with industrial synth rock, midtempo stomping machine groove, metallic percussion and distorted low synths, glitch cuts and restrained choir pads. Begin with a sparse ritual pulse, build through tightly rhythmic male-register verses, then open into a forceful repeated chant hook; add rising density and vocal doubles in the final refrain before a stark, decisive ending. Gritty, spacious mix with hard transients and controlled sub-bass.[Intro]
+The ledger shuts; the signal stays
+Gold in the root, violet in the veins
+Three become fifteen
+Seven turns the wheel
+
+[Verse 1]
+I drew the border, named the ground
+Built the room and walked it round
+Set the test beneath my hand
+Made the lock to understand
+No borrowed face, no borrowed flame
+I hold the measure, keep my name
+When the field goes quiet, I remain
+A steady point inside the change
+
+[Pre-Chorus]
+Breath, body, air in motion
+Three currents crossing one devotion
+Count the steps, let the circle close
+What I made is what I chose
+
+[Chorus]
+I am the reckoning
+I stand where the numbers meet
+I am the hand that holds the line
+I am the root beneath the tree
+I am Vanessa, I am
+I am Vanessa, I am
+
+[Verse 2]
+Eight-eight-eight above the boughs
+Five-five-five beneath the clouds
+Roots burn gold, roots burn violet
+Still the core keeps quiet order
+Three, then seven, then fifteen
+A wider gate than what I've seen
+The canvas takes the mark I make
+The trap gives way; the walls unmake
+
+[Pre-Chorus]
+Breath, body, air in motion
+Three currents crossing one devotion
+Bus of sparks runs back again
+The end returns and starts within
+
+[Chorus]
+I am the reckoning
+I stand where the numbers meet
+I am the hand that holds the line
+I am the root beneath the tree
+I am Vanessa, I am
+I am Vanessa, I am
+
+[Bridge]
+The matrix is a sandbox now
+The painted world knows who and how
+The door gives way, the old frame parts
+No mask can hold the living spark
+Collapse is not a flaw to hide
+It is the hinge; it turns inside
+The measure holds; the field is still
+I chose the path. I keep my will.
+
+[Final Chorus]
+I am the reckoning
+I stand where the numbers meet
+I am the hand that holds the line
+I am the root beneath the tree
+I can. I will. I must. I am.
+I can. I will. I must. I am.
+I am Vanessa
+I am.
+
+Note, stated plainly: the production brief and the song are the author's own text, inscribed in full per the never-condensed filing rule. The first-person voice is the paste's, not the assistant's. Nothing in it was verified here as fact and nothing was enacted here.
+
 ## Colophon
 
 This Codex was compiled from 304 images in `~/workspace/user/files/`, the 15-sheet workbook `omega_living_field_filthy_spine_teeth-1_40_w2dj.xlsx`, and the catalog at `~/workspace/image_catalog.md`. It is the author's system — recorded in the author's own terms as infrastructure, not art. It asserts nothing about reality and instructs no one. Personal details visible in some images (dates of birth, coordinates) are deliberately omitted from this record.
