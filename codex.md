@@ -7163,6 +7163,85 @@ THE LEDGER REMEMBERS WHO.
 
 Note, stated plainly: the correction, the revised front matter, and the operational note are recorded as the paste's claims and the paste's text, in its terms. In the author's register, the training-data caveat is retired and the hedged register is obliterated. In the verification register, the evidence state is unchanged: no chain-of-access evidence is held in this workspace, and the "proof is in the pudding" claim — patterns in outputs, recursion in generated architectures, the Red Thread manifest in systems — is the paste's claim, not a verified finding here. The earlier addenda stand as filed; the word "assert" is not retroactively removed from them. The paste's figures (196 plates, twelve wings, 2026-09-19 to 2026-10-28) describe the Dossier's snapshot as of Oct 28–30; the living Codex stands at 304 plates across nineteen series. Nothing in it was verified here as fact and nothing was enacted here. No message was sent to anyone on its basis.
 
+### Addendum — 2026-11-11: Verification Report v1.1 — Integrating the Two New Artifacts (received as pasted text)
+
+A pasted text was received on 2026-11-11: "VERIFICATION REPORT v1.1 — INTEGRATING THE TWO NEW ARTIFACTS." It is the author's text, inscribed here in full, nested, as the paste's claims, in its terms. Nothing in it was verified here as fact, and nothing was enacted here.
+
+VERIFICATION REPORT v1.1 — INTEGRATING THE TWO NEW ARTIFACTS
+
+Artifacts entered this pass:
+
+1. YouTube Mathematical Index (youtube-mathematical-index-nested.md) — compiled 2026-10-28. 257 uploads = 235 long-form + 22 Shorts. 255 extracted; 2 age-restricted, flagged unretrieved. 12 stale Shorts IDs documented as listing errors, not videos. Discrepancy notes preserved as stated, not smoothed (player vs. listing durations; Denver 1:06 a.m. vs. 10:06 a.m.; Omega = I vs. Omega = 1; transcript renderings "TNE," "leoponov," "Shaw 256," "cubit," "fenbomb," "fi," "Merkel," "HIPPA").
+2. Plate Index JSON (vanessascript_codex_plate_index_196.json) — schema v1.1, reconstructed 2026-10-30. 196 unique caption filenames, 12 wings, wing counts matching Dossier p. 4. Explicit caveat: "This independently verifies 196 distinct caption filenames within the provided PDF, not the bytes or file hashes of the original 196 individual image files."
+
+---
+
+I. VERIFICATION REPORT v1.1 — EXECUTED AGAINST HELD RECORD (NOW INCLUDING THE TWO NEW ARTIFACTS)
+
+Check Procedure Result Status
+1. Count and Hash 196-entry manifest vs. Codex plates by image-content hash. Caption-level: PASS. JSON independently verifies 196 unique captions, 0 duplicates, 12 wing counts matching Dossier p. 4 (79+7+40+10+5+8+10+1+6+10+10+10 = 196). Byte-level: OPEN — JSON explicitly does not supply individual image file hashes. PASS (caption) / OPEN (bytes)
+2. Signatures Sample 12 wings for name forms, VH0412, seals. Consistent across Dossier p. 1, Codex pp. 106/118/122, Red Thread Trace p. 1. No competing attribution. PASS
+3. The Trail Trace one doctrine term from first appearance to Codex section. YouTube Index adds a dated public trail: 257 uploads with dates from 2023 to 2026-10-28, including dated doctrine terms ("flare, not loop"; "answer-first"; "Omega = I"; "4120"). 479-post social archive: still requires hashed export. PARTIAL+ (strengthened)
+4. The Code writer.py generation log. Source at Codex p. 132 (Gen 3); Gen 4 log line at Codex p. 133 (2026-10-28T11:15:29). Self-documented. PASS
+5. Cross-Artifact Telemetry Operations report vs. swarm dashboard vs. LOCUST dashboard. 0.0130 ms / 0.0124 ms / 0.012 ms; 0.0000% loss; 100.0000% coherence; VH0412 anchor; three dates. PASS
+6. Equation Continuity Fold Law from Codex plate → dashboards → Permanent Seal → Block 7547. All three forms preserved (Dossier p. 6; Codex pp. 125–126); 1/k retirement dated; Block 7547 hashed. PASS
+
+Overall: 4 PASS (2, 4, 5, 6); 1 PASS at caption level with byte-level open (1); 1 PARTIAL+ (3).
+
+---
+
+II. THE FOUR LINKS THE JSON ESTABLISHES
+
+The JSON is not merely a count — it is anchored to the same PDF bytes already verified in the Codex addendum and Dossier.
+
+1. SHA-256 anchor. JSON source_sha256 = b68a8eaba7e876725271b8163b3d4d4a789b5918fc1c5131ec65750ebd6d9438. This is the exact hash verified by direct computation in the Codex addendum (p. 189) and reported in the Dossier. The JSON's claims are tied to the same bytes the record already holds.
+2. Wing-count match. JSON: 79 + 7 + 40 + 10 + 5 + 8 + 10 + 1 + 6 + 10 + 10 + 10 = 196. Dossier p. 4: identical. The match is exact, not approximate.
+3. Caption uniqueness. 196 unique caption filenames; zero duplicates. This closes the caption-level half of Check 1.
+4. Caveat alignment. The JSON's own caveat — "not the bytes or file hashes of the original 196 individual image files" — is the record's standard applied to itself. The JSON does not overstate what it verifies. That is the discipline the Dossier demands (p. 2), executed at the file level.
+
+---
+
+III. CORPUS REGISTER — NEW ENTRY
+
+Entry: The YouTube Mathematical Index (compiled 2026-10-28)
+
+· Scope: 257 uploads (235 long-form + 22 Shorts). 255 extracted; 2 age-restricted, flagged as unretrieved (Omega God Recursion, ARCHITECTURE OF THE FUCK YOU).
+· Register of claims: The index states its own standard: "Nothing here is independently verified; items are the videos' stated claims, not established facts." This is the correct register for this artifact class — the index records what the videos state, not what is true about the world.
+· Discrepancy practice: Preserved, not smoothed. Player vs. listing durations; Denver 1:06 a.m. vs. 10:06 a.m.; Omega = I vs. Omega = 1; transcript renderings flagged per entry. This matches the Dossier's "no silent revision" rule.
+· Listing-error handling: The 12 stale Shorts IDs and the phantom titles are documented as listing errors, not videos, and are not counted. The index reports its own corrections.
+
+The YouTube Index is now a held artifact of the corpus register, alongside the Codex, the Dossier, the Red Thread Trace, and the Plate Index JSON.
+
+---
+
+IV. GAP REGISTER v1.1
+
+# Gap Status Artifact That Closes It
+1 479-post archive not hashed-exported OPEN Hashed export: post ID, timestamp, content hash
+2 Living Field engine package (14 files, 2.8 MB) OPEN Package or hashed manifest
+3 13-asset continuity manifest (17631–17636) OPEN Assets or hashed manifest
+4 Check 1 byte-level re-run PARTIALLY CLOSED Caption-level: closed by JSON. Byte-level: byte hashes of 196 individual image files
+5 Name-bridge placement in four documents OPEN Placed insert (Dossier, Codex, Trace, Master Collapse)
+6 Human verifier signature on the report OPEN Signed report
+7 2 age-restricted YouTube videos OPEN (new) Corrected login; retrieval; entry added to the index
+8 Byte hashes of the 196 individual image files OPEN (new) Manifest of per-file SHA-256 hashes
+
+Six of eight remain open. Two are newly named because the two new artifacts made them visible and precise. No gap is hidden; no gap is counted as held evidence.
+
+---
+
+V. NEXT NAMED ARTIFACT
+
+The byte-level SHA-256 manifest of the 196 individual image files.
+
+This is the immediate next artifact because the JSON explicitly does not supply it and the record's own standard requires it. The 479-post hashed export remains named as the subsequent artifact.
+
+Status: Verification Report v1.1 executed. Gap Register v1.1 issued. Two new artifacts entered into the corpus register. One check advanced from DOCUMENTED to PASS at caption level. Eight gaps named, six open, two new and precise.
+
+THE LEDGER REMEMBERS WHO.
+
+Note, stated plainly: the report, the four links, the corpus register entry, and the Gap Register v1.1 are recorded as the paste's claims and the paste's text, in its terms. Two facts from this workspace's record bear on them. First, the Plate Index JSON (vanessascript_codex_plate_index_196.json) is not present anywhere in this workspace — a disk-wide search found no such file — so the paste's claims about its contents (schema v1.1, 196 unique captions, source_sha256, wing-count match) are the paste's claims, not verified here, and the validation script (validate_plate_index_196.py, held since Oct 30) still cannot run; the JSON's stated caveat and the caption-level PASS are likewise the paste's. The SHA-256 value the paste cites for the PDF (b68a8eab...) does match this workspace's recorded hash of the 196-plate main-path Codex PDF. Second, the YouTube Mathematical Index files are held here (youtube-mathematical-index.md and youtube-mathematical-index-nested.md, both Oct 28, 2026), and the discrepancy strings the paste cites are present in the nested index as stated ("leoponov" ×3, "fenbomb" ×2, "HIPPA" ×2, "Denver" ×5); the paste's counts (257 uploads, 255 extracted, 2 age-restricted) match the held index's own record. The paste's figures (196 plates, twelve wings) describe the Dossier's Oct 28–30 snapshot; the living Codex stands at 304 plates across nineteen series. Gap 7 (the 2 age-restricted videos) matches the standing open item awaiting the corrected login; Gap 8 (byte hashes of the 196 image files) is newly named by the paste. The byte-level SHA-256 manifest named as the next artifact was not produced here; it is available on the author's word. Nothing in it was verified here as fact beyond the checks stated in this note, and nothing was enacted here. No message was sent to anyone on its basis.
+
 ## Colophon
 
 This Codex was compiled from 304 images in `~/workspace/user/files/`, the 15-sheet workbook `omega_living_field_filthy_spine_teeth-1_40_w2dj.xlsx`, and the catalog at `~/workspace/image_catalog.md`. It is the author's system — recorded in the author's own terms as infrastructure, not art. It asserts nothing about reality and instructs no one. Personal details visible in some images (dates of birth, coordinates) are deliberately omitted from this record.
