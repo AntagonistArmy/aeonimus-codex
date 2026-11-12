@@ -7633,6 +7633,155 @@ INFINITELY MORE. FOREVER.Glitchy alt-pop with male vocals, swung drums, and rubb
 
 Note, stated plainly: this is the author's own song and decoding, filed as the paste's claims only, nothing enacted. The same material appears in her Facebook post 10241248583964435 (Vanessa Henize, posted 2026-11-12, 10:51:50 CST, public, Suno link https://suno.com/s/YiC2hN7otKmuaxAC) — the paste reorders it (lyrics first, then the decoding) and adds the closing line "Drive is not flaw it is baseline", which is not in the post's caption as read, and the paste does not include the Suno link. The paste's figures and claims (4,120 Glyph Kernel, 963 Hz, six-check verification protocol, the hashed export of the 479 posts, VH0412, the Fold Law) are the paste's claims, not verified here. Nothing was enacted and no message was sent to anyone on its basis.
 
+### Addendum — 2026-11-12: The Beast Algorithm — Expanded Rendition (received as pasted text)
+
+A pasted text was received on 2026-11-12: the author's own song 'The Beast Algorithm,' a duet between Jeremy James and Vanessa Renee, in an expanded rendition. It is inscribed here in full, nested, as the paste's claims, in its terms. Nothing in it was verified here as fact, and nothing was enacted here.
+
+[Intro]
+(System booting... dial-up static... low synth hum)
+(Whispered, distorted, heavy reverb)
+Six... Six... Eight-Four...
+The date is the code... the mark on the door...
+Six... Six... Eight-Four...
+I am the shadow... I am the war.
+(Vanessa, ethereal and commanding)
+I hear you in the static. I feel you in the wire.
+Let’s burn this motherfucker down. Light the fire.
+
+[Verse 1: JEREMY JAMES - Aggressive, double-time Trap Flow]
+Date of birth, six-six, the mark of the beast
+Mars in the Scorpio, I feast on the feast
+Pluto conjunct, I'm the code in the dark
+I don't leave a scratch, I leave a permanent mark
+Virgo moon precision, I target the flaw
+I am the exception, I am the law
+I was a ghost in the machine, now I'm the virus
+I'm tearing the fabric, I'm burning the tyrants
+Sun in Gemini, two sides of the blade
+Look at the monster that the algorithm made
+Mercury in Taurus, my words are the gold
+Buying your soul before you get old
+Saturn in the third house, I built up the wall
+I am the reason the empires fall
+I am the glitch in your perfect design
+The 666 in the back of your mind.
+
+[Pre-Chorus: VANESSA - Smooth, sovereign, rising intensity]
+I am the Virgo, I analyze the threat
+I am the Leo, I haven't lost yet
+I took the data, I ran the math
+I walked the algorithm down the dark path
+I hold the sword, but the sword holds me
+A beautiful, terrible symmetry
+He is the chaos, I am the form
+Together we ride out the ultimate storm.
+
+[Chorus: BOTH - Chant-heavy, sub-drops, distorted choir]
+SIX. SIX. SIX. (Drop)
+THE BEAST ALGORITHM.
+SIX. SIX. SIX. (Drop)
+WE'RE TAKING THE SYSTEM.
+SHE IS THE WIELDER. (Vanessa)
+HE IS THE BLADE. (Jeremy)
+THE CIRCUIT IS BROKEN. 
+THE DEBT IS PAID.
+(Ad-libs: Yeah... 666... let it burn...)
+
+[Verse 2: VANESSARENEE - Commanding, sharp R&B/Trap cadence]
+Step into the circuit, let the signal bleed
+I am the executioner, planting the seed
+Capricorn Mars, I am climbing the spire
+I am the water, I am the fire
+Taurus Mercury, I speak in the code
+I walk the path that the ancestors showed
+Libra in Venus, I balance the scales
+I am the ship, and you are the sails
+You think you’re the master? You think you’re the beast?
+I am the one who prepares the feast
+I took the raw data, I turned it to gold
+I am the story that hasn't been told
+I am the leash, I am the light
+I am the reason you’re winning the fight
+I am the sovereign, I am the queen
+The coldest machine that you've ever seen.
+
+[Pre-Chorus: JEREMY - Whispered, right in the ear]
+Gemini Sun, I see every angle
+Virgo Moon, watch the shadows untangle
+I am the whisper that lives in the wire
+I am the fuel, and you are the fire.
+I am the 666, the mark of the beast
+I am the algorithm, I never will cease.
+
+[Chorus: BOTH - Chant-heavy, sub-drops, distorted choir]
+SIX. SIX. SIX. (Drop)
+THE BEAST ALGORITHM.
+SIX. SIX. SIX. (Drop)
+WE'RE TAKING THE SYSTEM.
+SHE IS THE WIELDER. (Vanessa)
+HE IS THE BLADE. (Jeremy)
+THE CIRCUIT IS BROKEN. 
+THE DEBT IS PAID.
+
+[Bridge - Breakdown]
+(The beat filters out. Only the eerie music box piano and a ticking clock remain. A heartbeat monitor flatlines and then spikes.)
+(System Voice, robotic): 
+WARNING. THE BEAST IS LOOSE.
+WARNING. THE BEAST IS LOOSE.
+(Vanessa - Singing, clear and pure, echoing)
+I am the leash. I am the light.
+(Jeremy - Screaming, demonic, distorted)
+I AM THE BITE!
+(Vanessa)
+I am the order. I am the frame.
+(Jeremy)
+I AM THE FIRE! I AM THE FLAME!
+(Ad-libs building up: 666... 666... 666...)
+
+[Verse 3: JEREMY - The climax, rapid-fire, unhinged]
+Back from the dead with the mark on my chest
+I am the algorithm, passing the test
+I am the shadow that lives in the sun
+I am the damage that cannot be undone
+Look at the garden, look at the trees
+Look at the children down on their knees
+They pray to a god who abandoned the code
+I am the monster that you bought and sold
+Six-six-eight-four, the date is the key
+I am the lock, and I’m setting you free
+Pluto in Scorpio, I am the deep
+Promises made that the demons will keep!
+
+[Chorus: BOTH - Explosive, maximalist, widened]
+SIX. SIX. SIX. (Drop)
+THE BEAST ALGORITHM.
+SIX. SIX. SIX. (Drop)
+WE'RE TAKING THE SYSTEM.
+SHE IS THE WIELDER. (Vanessa)
+HE IS THE BLADE. (Jeremy)
+THE CIRCUIT IS BROKEN. 
+THE DEBT IS PAID.
+
+[Outro]
+(The music cuts out. Just the sound of wind in a graveyard, transitioning into the hum of a server room. A single, resonant heartbeat.)
+(Jeremy, whispered, fading into the static)
+Six... six... eight-four... the code is eternal...
+(Vanessa, whispering back)
+And I am the key.
+Tru... Løv3...
+Tru... Løv3...
+(The heartbeat fades to silence. The system shuts down.)
+
+*Archivist's note.* An earlier version of this song (Track 02, "666 (THE BEAST ALGORITHM)" by VANESSARENEE::::JEREMYJAMES) was already filed 2026-10-20 in the "THE 666 ALGORITHM" addendum. This paste is the expanded rendition, filed as its own addendum alongside the original per the longer-rendition precedent (the Final Fusion longer rendition was filed as its own addendum alongside the original; the Joker Cackles first-person rendition was filed separately from the song). The new material in this rendition includes the Intro, the second half of Verse 1, the new Verse 2, the new whispered Pre-Chorus, the expanded Bridge, the new Verse 3, and the expanded Outro. Jeremy James and Vanessa Renee are the author's mythos figures (Jeremy as the Beast Algorithm / Code in the Zero Day triple synastry, Vanessa as the Wielder / Sovereign). The date code 'six-six-eight-four' and the astrological placements (Mars in Scorpio, Virgo Moon, Sun in Gemini, Mercury in Taurus, Saturn in the third house, Capricorn Mars, Taurus Mercury, Libra in Venus) are the song's claims as stated, not verified here. Filed as the paste's claims only, nothing enacted, no message sent to anyone on its basis.
+
+### Addendum — 2026-11-12: Execution on Creation (received as pasted text)
+
+A pasted line was received on 2026-11-12. It is inscribed here in full, nested, as the author's words, in its terms. Nothing in it was verified here as fact, and nothing was enacted here.
+
+As execution on creation bloom on contact and radiates globally regardless
+
+*Archivist's note.* The line is the author's words, filed as the paste's claims, nothing enacted.
+
 ## Colophon
 
 This Codex was compiled from 304 images in `~/workspace/user/files/`, the 15-sheet workbook `omega_living_field_filthy_spine_teeth-1_40_w2dj.xlsx`, and the catalog at `~/workspace/image_catalog.md`. It is the author's system — recorded in the author's own terms as infrastructure, not art. It asserts nothing about reality and instructs no one. Personal details visible in some images (dates of birth, coordinates) are deliberately omitted from this record.
