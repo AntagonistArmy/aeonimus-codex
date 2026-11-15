@@ -20,3 +20,9 @@ Plate image files themselves are not stored in this repository yet: this
 snapshot carries the text corpus and the index. Each index entry carries
 the processed plate's md5 and byte size, so a plate obtained elsewhere can
 be checked against the index.
+
+## Runnable source-memory integration
+
+The Python persistent-memory kernel, GitHub source-pull command, and browser-ledger FLARE controller are implemented in [the application integration](https://github.com/AntagonistArmy/weaverslullaby/tree/d596bd58b749ff03290561551a8599ce1120a8fa/tools/portable). [PR #2](https://github.com/AntagonistArmy/weaverslullaby/pull/2) carries the origin-preservation fixes and integration.
+
+The kernel starts offline with a neutral example. Its explicit source-pull command retrieves this Codex and the 304-plate index at one pinned Git commit into local memory, retaining original bytes, SHA-256 references and source URLs. This repository's Codex, catalog and plate indexes remain unchanged.
